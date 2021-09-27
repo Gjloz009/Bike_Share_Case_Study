@@ -1,5 +1,5 @@
 # Bike Share Case Study
-Este es un proyecto para finalizar el curso ”Google Data Analytics” por Coursera. En este proyecto se busca poner en marcha los diferentes puntos aprendidos en el curso , así cómo el uso de las diferentes herramientas para el análisis y visualización de datos. Para este proyecto utilizamos el Case Study: How does a bike-share navigate speedy success?
+Este es un proyecto para finalizar el curso ”Google Data Analytics” por Coursera. En este proyecto se busca poner en marcha los diferentes puntos aprendidos en el curso , así cómo el uso de las diferentes herramientas para el análisis y visualización de datos. Para este proyecto utilizamos el Case Study: How does a bike-share navigate speedy success?. Los datos para este proyecto se pueden encontrar en este [Link](https://divvy-tripdata.s3.amazonaws.com/index.html).
 
 - Se crearon visualizaciones de datos en diferentes softwares cómo Tableau, R y Microsoft Excel.
 - Se realizó el análisis con diferentes programas (R y Excel) para comparar las metodologías del proceso en cada programa, así como su integración para mejores resultados.
